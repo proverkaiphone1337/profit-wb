@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.tsbuildinfo
+vite.log
+vite.err.log
+tmp_report.xlsx
+wb-profit-calc-dist.zip
+
